@@ -1,6 +1,6 @@
-##About this package:
+# About this package:
 
-This package is responsible for listing the daily quotation of foreign currencies against the Brazillian Real (BRL), all based on SOAP services provided by Banco do Brasil for free, which you can see here: https://www3.bcb. gov.br/sgspub/JSP/sgsgeral/FachadaWSSGS.wsdl
+This package is responsible for listing the daily quotation of foreign currencies against the Brazillian Real (BRL), all based on SOAP services provided by Banco do Brasil for free, which you can see here: [SOAL Service Banco do Brasil](https://www3.bcb.gov.br/sgspub/JSP/sgsgeral/FachadaWSSGS.wsdl)
 
 You can use destructor to get the requisition function and an object in the desired currency to get the daily quote.
 

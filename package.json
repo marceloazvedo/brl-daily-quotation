@@ -1,14 +1,35 @@
 {
-  "name": "brl-daily-quotation",
+  "name": "@marceloazvedo1/brl-daily-quotation",
   "version": "1.0.0",
-  "description": "",
+  "description": "This package is responsible for listing the daily quotation of foreign currencies against the Brazillian Real (BRL), all based on SOAP services provided by Banco do Brasil for free, which you can see here: https://www3.bcb. gov.br/sgspub/JSP/sgsgeral/FachadaWSSGS.wsdl",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Marcelo S. de Azevedo",
   "license": "ISC",
   "dependencies": {
     "soap": "^0.27.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marceloazvedo/brl-daily-quotation.git"
+  },
+  "keywords": [
+    "Brazillian",
+    "Real",
+    "BRL",
+    "Daily",
+    "Quotation",
+    "Currency",
+    "SOAP",
+    "Branco",
+    "do",
+    "Brasil"
+  ],
+  "bugs": {
+    "url": "https://github.com/marceloazvedo/brl-daily-quotation/issues"
+  },
+  "homepage": "https://github.com/marceloazvedo/brl-daily-quotation#readme"
 }
