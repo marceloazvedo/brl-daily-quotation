@@ -1,5 +1,5 @@
 {
-  "name": "@marceloazvedo1/brl-daily-quotation",
+  "name": "brl-daily-quotation",
   "version": "1.0.0",
   "description": "This package is responsible for listing the daily quotation of foreign currencies against the Brazillian Real (BRL), all based on SOAP services provided by Banco do Brasil for free, which you can see here: https://www3.bcb. gov.br/sgspub/JSP/sgsgeral/FachadaWSSGS.wsdl",
   "main": "index.js",
